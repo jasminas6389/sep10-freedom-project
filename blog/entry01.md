@@ -13,7 +13,8 @@ While researching my topic Medical practice, i searched up "medical practice use
 #### Cooking/baking
 While researching my topic cooking/baking i searched up "baking in technology industry” and this article popped up "https://magazinebbm.com/blog/technology-and-production-equipment-in-the-bakery-industry2796#:~:text=Automated%20mixing%20and%20kneading%20systems%2C%20high%2Dspeed%20ovens%20and%20proofers,technology%20equipment%20reshaping%20the%20industry". Although its very long i was reading through it and this part caught my attention, "High-Speed Ovens and Proofers. This can cook/ bake the food in the oven faster and quicker. Automated Decorating and Icing Machines" I think technology being used this way is very cool because instead of waiting 30-40 for the cake to bake it can bake faster in 5-10 minutes.
 
-
+#### Jewelry Designer
+While researching about jewelry designers i search up "how do u use tech in jewelry design industry” i found a good article that talked about how you can try on the jewelry virtually to see if the design will look good on. the article was "https://www.jaesjewelers.com/blogs/news/how-technology-is-shaping-jewelry-design-in-2025". "3D Printing: Precision and Creativity Augmented Reality (AR) Try-Ons: Virtual Elegance" in the article it stated that, you can use 3D Printing also.
 
 
 [Next](entry02.md)
