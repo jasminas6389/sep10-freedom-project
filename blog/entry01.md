@@ -11,6 +11,11 @@ While researching my topic Medical practice, i searched up "medical practice use
 "https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/". There was a part that stood out to me, "Artificial intelligence (AI) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare". this stood out to me because they are able to use technology to transform the practice of medical and health care delivery.
 
 #### Cooking/baking
+While researching my topic cooking/baking i searched up "baking in technology industry” and this article popped up "https://magazinebbm.com/blog/technology-and-production-equipment-in-the-bakery-industry2796#:~:text=Automated%20mixing%20and%20kneading%20systems%2C%20high%2Dspeed%20ovens%20and%20proofers,technology%20equipment%20reshaping%20the%20industry". Although its very long i was reading through it and this part caught my attention, "High-Speed Ovens and Proofers. This can cook/ bake the food in the oven faster and quicker. Automated Decorating and Icing Machines" I think technology being used this way is very cool because instead of waiting 30-40 for the cake to bake it can bake faster in 5-10 minutes.
+
+
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
