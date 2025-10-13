@@ -17,7 +17,7 @@ While researching my topic cooking/baking I searched up "baking in technology in
 While researching about jewelry designers I search up "how do u use tech in jewelry design industry” I found a good article that talked about how you can try on the jewelry virtually to see if the design will look good on. the article was "https://www.jaesjewelers.com/blogs/news/how-technology-is-shaping-jewelry-design-in-2025". "3D Printing: Precision and Creativity Augmented Reality (AR) Try-Ons: Virtual Elegance". In the article it stated that you can use 3d printing.
 
 ## Engineering Design Process
-We haven't started yet but we picked our topics and what we are going to make the project about. For me I picked Medical Practice because of my intrests in this topic and what more I want to learn about.
+We haven't started yet but we picked our topics and what we are going to make the project about. For me I picked Medical Practice because of my intrests in this topic and what more I want to learn about. We have also started little bit of our research but not fully started yet. For the project I'm planning how I'm going to start it and what I may add.
 ## Skills
 
 [Next](entry02.md)
