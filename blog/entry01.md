@@ -19,6 +19,7 @@ While researching about jewelry designers I search up "how do u use tech in jewe
 ## Engineering Design Process
 We haven't started yet but we picked our topics and what we are going to make the project about. For me I picked Medical Practice because of my intrests in this topic and what more I want to learn about. We have also started little bit of our research but not fully started yet. For the project I'm planning how I'm going to start it and what I may add.
 ## Skills
+I have good organizing skills, everything will have its own place and it will go back into that place when I'm done using it. I like keeping track of where things go and their place. The only time when something won't be where I got it from is if I didn't feel like putting it back or if I needed to use it again and didn't want to put it back and take it again. To make things nicely organized I put it by color, shape, or if there is more than one of the same thing. I also have good communication skills, if you don't understand something if I understand it myself I would be able to explain it to you so you understand.
 
 [Next](entry02.md)
 
