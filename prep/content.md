@@ -8,9 +8,9 @@ Topic: **Medical Practice**
 ## Part A: existing technology
 * Tech: Telemedicine and healthcare apps
   * Virtual healthcare apps, like "Virtual Practice Healthcare," let doctors and patients talk to each other online. Telemedicine also does the same, it allows doctors to treat patients through online video calls or messages instead of in person. It lets patients have video calls with doctors, get prescriptions, and receive medical advice, all while being at home,  which is especially helpful when they aren't able to or don't want to physically go to the doctor.
-  *<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe31qe1RvuJAQmgxBaWxJh4WmhxgplLpFbOQs" alt="Telemedicine Picture" />
+  *<img src="" alt=" />
   * [image text](image URL)
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Enhanced AI incorporation Telemedicine
+ * In the future, telemedicine could use better AI to help diagnose illnesses, analyze symptoms, and manage prescriptions. This might include virtual assistants to help patients with medical questions or AI that reads vital signs more accurately with smart devices.
