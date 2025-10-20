@@ -13,4 +13,4 @@ Topic: **Medical Practice**
 
 ## Part B: possible future technology
 * Enhanced AI incorporation Telemedicine
- * In the future, telemedicine could use better AI to help diagnose illnesses, analyze symptoms, and manage prescriptions. This might include virtual assistants to help patients with medical questions or AI that reads vital signs more accurately with smart devices.
+ * In the future, telemedicine could use better AI to help diagnose illnesses, analyze symptoms, and manage prescriptions. This might include virtual assistants to help patients with medical questions or AI that reads vital signs more accurately with smart devices. But we need to program AI so it doesn't make any mistakes when being used.
