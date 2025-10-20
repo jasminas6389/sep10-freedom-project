@@ -8,6 +8,7 @@ Topic: **Medical Practice**
 ## Part A: existing technology
 * Tech: Telemedicine and healthcare apps
   * Virtual healthcare apps, like "Virtual Practice Healthcare," let doctors and patients talk to each other online. Telemedicine also does the same, it allows doctors to treat patients through online video calls or messages instead of in person. It lets patients have video calls with doctors, get prescriptions, and receive medical advice, all while being at home,  which is especially helpful when they aren't able to or don't want to physically go to the doctor.
+  *<img src="virtualpractice.webp" alt="Virtual Practice Picture" />
   * [image text](image URL)
 
 ## Part B: possible future technology
