@@ -12,23 +12,23 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 
 **What It Does:**
 
-*Keeps Patient Info Organized: It stores everything about a patient’s health, like medical history, medications, and test results.
+* Keeps Patient Info Organized: It stores everything about a patient’s health, like medical history, medications, and test results.
 
-*Telemedicine: Doctors can see patients over video calls, so you don’t always have to go to the office.
+* Telemedicine: Doctors can see patients over video calls, so you don’t always have to go to the office.
 
-*Appointments & Scheduling: Helps doctors keep track of patient appointments.
+* Appointments & Scheduling: Helps doctors keep track of patient appointments.
 
-*Billing: It handles all the insurance stuff and makes sure the doctors get paid.
+* Billing: It handles all the insurance stuff and makes sure the doctors get paid.
 
 **How It Helps:**
 
-*Faster Access to Info: Doctors can quickly see your medical history, so they can make better decisions.
+* Faster Access to Info: Doctors can quickly see your medical history, so they can make better decisions.
 
-*Less Mistakes: It helps reduce errors in billing and appointment scheduling, making everything smoother.
+* Less Mistakes: It helps reduce errors in billing and appointment scheduling, making everything smoother.
 
 *Improves Care: Doctors have everything they need at their fingertips, so they can give you better care.
 
-*Meets Standards: It's made to follow healthcare rules, so your data is safe.
+* Meets Standards: It's made to follow healthcare rules, so your data is safe.
 
 https://www.epic.com/
 
@@ -41,23 +41,23 @@ What It Is: Zocdoc is an app/website where you can book doctor appointments onli
 
 What It Does:
 
-*Online Booking: You can pick a time to see a doctor that works for you, even for same-day appointments.
+* Online Booking: You can pick a time to see a doctor that works for you, even for same-day appointments.
 
-*Find Doctors: You can search for doctors by what you need (like a dentist or pediatrician), where they are, and which insurance they accept.
+* Find Doctors: You can search for doctors by what you need (like a dentist or pediatrician), where they are, and which insurance they accept.
 
-*Insurance Help: It shows which doctors take your insurance, so you don’t have to guess.
+* Insurance Help: It shows which doctors take your insurance, so you don’t have to guess.
 
-*Patient Reviews: You can read other people's reviews about doctors before making an appointment.
+* Patient Reviews: You can read other people's reviews about doctors before making an appointment.
 
-*Telehealth: You can also have video calls with doctors if you don’t want to go in person.
+* Telehealth: You can also have video calls with doctors if you don’t want to go in person.
 
 How It Helps:
 
-*Easy Booking: You can find and book a doctor without waiting on hold or having to call.
+* Easy Booking: You can find and book a doctor without waiting on hold or having to call.
 
-*Saves Time: No more waiting for weeks to see a doctor, you can often find last-minute spots.
+* Saves Time: No more waiting for weeks to see a doctor, you can often find last-minute spots.
 
-*Better Choices: You can pick a doctor based on what others have said about them, which is super helpful.
+* Better Choices: You can pick a doctor based on what others have said about them, which is super helpful.
 
 https://www.zocdoc.com/
 
