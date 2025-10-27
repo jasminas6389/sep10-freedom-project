@@ -67,3 +67,8 @@ https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.p
 ## Part B: possible future technology
 *
 *
+
+
+## Devices/hardware
+
+So I first searched up "Devices used in medical practce". and it showed many sources from the web. But there was a Ai overview but since Ai can be incorrect I scrolled past it. 
