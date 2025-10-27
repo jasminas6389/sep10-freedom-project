@@ -71,4 +71,10 @@ https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.p
 
 ## Devices/hardware
 
-So I first searched up "Devices used in medical practce". and it showed many sources from the web. But there was a Ai overview but since Ai can be incorrect I scrolled past it. 
+So I first searched up "Devices used in medical practce". and it showed many sources from the web.
+* But there was a Ai overview but since Ai can be incorrect I scrolled past it.  Most of the devices that are being used isn't hardware, it shows Stethoscope, Blood pressure monitors, Glucose meter, Thermometer, and insulin. These devices aren't plugged into anything so it doesnt make them hardware.
+  Example 
+* A stethoscope is used to listen to the heartbeat and it doesn't involve any type of technology.
+* A Blood pressure monitor is used by batteries, and you don't plug it into anything. You just wrap it around your upper arm near your pulse and the part with the circle wire you put on the pulse, push the button and it inflates air to stop blood flow and it 
+* https://www.ncbi.nlm.nih.gov/books/NBK279251/
+* how does a blood pressure monitor work
