@@ -74,17 +74,34 @@ https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.p
 So I first searched up "Devices used in medical practce". and it showed many sources from the web.
 * But there was a Ai overview but since Ai can be incorrect I scrolled past it.  Most of the devices that are being used isn't hardware, it shows Stethoscope, Blood pressure monitors, Glucose meter, Thermometer, and insulin. These devices aren't plugged into anything so it doesnt make them hardware.
   Examples
-  ### Stethoscope
+### Stethoscope
 * A stethoscope is used to listen to the heartbeat and it doesn't involve any type of technology.
 * A simple acoustic instrument used to listen to body internal sounds (heart, lungs, blood flow).
 * Hardware: chest piece (diaphragm/bell), tubing, earpieces. No electronics needed in the basic version.
 * Use: basic diagnostic tool, widely used in physical exams.
 * It may be low-tech but it qualifies as a device/instrument.
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7QFLS5gAJTnawuETbq-vCdvhR9RWyNUi0w&s
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7QFLS5gAJTnawuETbq-vCdvhR9RWyNUi0w&s
 
 ### Blood Pressure Monitor
 * A Blood pressure monitor is used by batteries, and you don't plug it into anything. You just wrap it around your upper arm near your pulse and the part with the circle wire you put on the pulse, push the button and it inflates air to stop blood flow and it
 * Important to keep arm at heart-level, cuff size matters, multiple readings often taken.
 * Use: diagnosis/monitoring of hypertension, cardiovascular risk.
 https://www.ncbi.nlm.nih.gov/books/NBK279251/
+
 Image. https://live.staticflickr.com/887/42092137064_792fda823f_b.jpg
+
+### Glucose Meter
+* It is used for measuring your blood glucose. It is commonly used by people that have diabetes.
+* A drop of blood is placed on a test strip, and you insert it into the meter, and it measure your blood glucose levels.
+* If the number is too high it can be dangerous but it can also be dangerous if the number is too low. 
+* Your also supposed to measure it before you eat breakfast because it can have a effect if you measure after eating. 
+* Hardware: small reader, test strip interface, display, often battery powered. 
+Image. https://i1.pickpik.com/photos/827/481/162/diabetes-glucose-meter-glucose-meter-preview.jpg
+
+### Pulse Oximeter
+* A Pulse Oximeter Measures how much oxygen is in your blood (SpO₂) and your pulse rate.
+* You clip it on your finger. It shines red and infrared light through your skin, and a sensor measures how much light your blood absorbs to find your oxygen level.
+* It has Small finger clip with tiny LED lights, a sensor, and a screen to show the numbers.
+* Use: Checks oxygen levels for people with breathing problems, during surgery, or at home.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_LfplVuk_vyrwprwKb2HfA&s
+
