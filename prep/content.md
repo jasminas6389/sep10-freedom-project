@@ -110,10 +110,9 @@ Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_Lfpl
 * Normal body temperature: Around 98.6°F (37°C), but it can range from 97°F–99°F (36.1–37.2°C) depending on the person, time of day, and where it’s measured.
 * Hardware: thermistor or infrared sensor, display. Infrared ear and forehead thermometers read body heat, while digital mouth and underarm thermometers touch the skin to measure temperature.
 * There is 4 different types of thermometers
-       * Digital Thermometer used for Oral (under the tongue), axillary (underarm), and rectal (for babies) readings are common.
-       * Infrared Thermometer (Ear/Forehead):  measured heat coming from your eardrum or forehead skin.
-       * Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic.
-       * Digital No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
+** Digital Thermometer used for Oral (under the tongue), axillary (underarm), and rectal (for babies) readings are common.
+** Infrared Thermometer (Ear/Forehead):  measured heat coming from your eardrum or forehead skin.
+** Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic. Digital ** No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
 Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UYBmI5EDu8_HBtnmH8RxffK4bOEeqloSVg&s
 
 ### Defibrillator
