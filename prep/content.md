@@ -109,11 +109,13 @@ Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_Lfpl
 * Measures body temperature to check for fever or infection.
 * Normal body temperature: Around 98.6°F (37°C), but it can range from 97°F–99°F (36.1–37.2°C) depending on the person, time of day, and where it’s measured.
 * Hardware: thermistor or infrared sensor, display. Infrared ear and forehead thermometers read body heat, while digital mouth and underarm thermometers touch the skin to measure temperature.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngHgfzDvoPD9aaoNZ5MPVyCz_yIlwYBjCjA&s
 
 There is 4 different types of thermometers
 * Digital Thermometer used for Oral (under the tongue), axillary (underarm), and rectal (for babies) readings are common.
 * Infrared Thermometer (Ear/Forehead):  measured heat coming from your eardrum or forehead skin.
-* Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic. Digital * No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
+* Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic. Digital
+* No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
 Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UYBmI5EDu8_HBtnmH8RxffK4bOEeqloSVg&s
 
 ### Defibrillator
@@ -129,6 +131,7 @@ Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7HNxZSJanlWPucz9O
 * Check arrhythmias: the electrodes and lead wires detect irregular beats, the screen/printout shows them.
 * Detect heart attacks: the amplifier and converter make changes in heart signals visible. 
 * Monitor heart function: the whole system records and displays the heart’s activity for ongoing observation.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxQv5rAprrjj2OyU0ue9MQWYjFMNXNL6lDA&s
 
 ### Ventilator
 * It helps/takes over a patient’s breathing.
@@ -140,23 +143,28 @@ Image. https://upload.wikimedia.org/wikipedia/commons/3/31/Servo_I_Ventilator.jp
 * Uses high-frequency sound waves to make pictures of inside the body.
 * The probe (transducer) sends and receives sound waves, the console processes the signals with beamforming electronics, the display shows the images, and user controls let the operator adjust settings.
 * Use: Helps doctors check the heart, abdomen, baby in pregnancy, blood vessels, and guide procedures like biopsies.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2albFcy7IKbjFPEj7CO24cWZhHzI493f2A&s
 
 ### Magnetic Resonance Imaging (MRI) Scanner
 * Uses strong magnets and radio waves to make detailed pictures of the inside of the body.
 * The magnet creates a strong magnetic field, gradient coils adjust the field to focus on specific areas, RF coils send and receive radio signals, the computer processes the data, and the display shows the images.
 * Use: Used for detailed imaging of the brain, spine, joints, and soft tissues.
+Image. https://upload.wikimedia.org/wikipedia/commons/e/ee/MRI-Philips.JPG
 
 ### X-Ray Machine / Radiography
 * Uses X-rays to take pictures of the inside of the body.
 * The X-ray tube produces the rays, the detector or film captures the image, the control panel adjusts settings, digital sensors can store images, and radiation shielding keeps people safe.
 * Use: Checks for broken bones, chest problems, dental issues, and more
+Image. https://upload.wikimedia.org/wikipedia/commons/d/db/Projectional_radiography_components.jpg
 
 ### Autoclave
 * Sterilizes surgical tools and lab equipment using steam under pressure.
 * Pressure chamber holds the items, steam generator creates high-pressure steam, timers control the cycle, sensors check temperature and pressure, and safety features prevent accidents.
 * Use: Keeps hospitals, clinics, and labs free from infections.
+Image. https://upload.wikimedia.org/wikipedia/commons/a/a0/Laboratory_autoclave_%28cropped%29.jpg
 
 ### Electrosurgical Unit (ESU)
 * Cuts or stops bleeding in tissue using high-frequency electricity during surgery.
 * The generator makes electricity, cables carry it, the handpiece touches the tissue, the ground pad completes the circuit safely, and the controls let the surgeon adjust it.
 * Use: Used in operating rooms for surgeries like laparoscopic, open, or endoscopic procedures.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHeohrDy7Px_OM3-5_tfuIPSpcePru1wGAA&s
