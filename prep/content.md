@@ -26,7 +26,7 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 
 * Less Mistakes: It helps reduce errors in billing and appointment scheduling, making everything smoother.
 
-*Improves Care: Doctors have everything they need at their fingertips, so they can give you better care.
+* Improves Care: Doctors have everything they need at their fingertips, so they can give you better care.
 
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
 
