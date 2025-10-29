@@ -2,8 +2,8 @@
 Topic: **Medical Practice**
 
 ## Overview/Introduction/Context
-* For my Freedom Project I picked the topic Medical Practice, I first searched up medical practice apps and 3 popped up "Virtual Practice Healthcare, Jotform Health, and NHS App". But the one that looked more intresting was Virtual Practice Healthcare with the loco being a stethoscope. 
-* Healthcare tech is moving fast, its mostly from mobile apps.  Virtual Practice Healthcare apps  let doctors and patients connect online, so people will be able to get care from home. Instead of going to a doctor’s office, patients  will be able to  have video calls, ask questions, and even get prescriptions all right from their phone. It makes healthcare easier and more convenient, especially when you can't make it to a clinic or prefer not to leave the house.
+* For my Freedom Project I picked the topic Medical Practice, I first searched up medical practice apps and 3 popped up "Virtual Practice Healthcare, Jotform Health, and NHS App". But the one that looked more interesting was Virtual Practice Healthcare with the loco being a stethoscope. 
+* Healthcare tech is moving fast, it’s mostly from mobile apps.  Virtual Practice Healthcare apps  let doctors and patients connect online, so people will be able to get care from home. Instead of going to a doctor’s office, patients  will be able to  have video calls, ask questions, and even get prescriptions all right from their phone. It makes healthcare easier and more convenient, especially when you can't make it to a clinic or prefer not to leave the house.
 
 ## Part A: existing technology
 ***Epic Systems***
@@ -71,8 +71,8 @@ https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.p
 
 ## Devices/hardware
 
-So I first searched up "Devices used in medical practce". and it showed many sources from the web.
-* But there was a Ai overview but since Ai can be incorrect I scrolled past it.  Most of the devices that are being used isn't hardware, it shows Stethoscope, Blood pressure monitors, Glucose meter, Thermometer, and insulin. These devices aren't plugged into anything so it doesnt make them hardware.
+So I first searched up "Devices used in medical practice". and it showed many sources from the web.
+* But there was a AI overview but since AI can be incorrect I scrolled past it.  Most of the devices that are being used aren’t hardware, it shows Stethoscope, Blood pressure monitors, Glucose meter, Thermometer, and insulin. These devices aren't plugged into anything so it doesn’t make them hardware.
   Examples
 ### Stethoscope
 * A stethoscope is used to listen to the heartbeat and it doesn't involve any type of technology.
@@ -92,16 +92,16 @@ Image. https://live.staticflickr.com/887/42092137064_792fda823f_b.jpg
 
 ### Glucose Meter
 * It is used for measuring your blood glucose. It is commonly used by people that have diabetes.
-* A drop of blood is placed on a test strip, and you insert it into the meter, and it measure your blood glucose levels.
+* A drop of blood is placed on a test strip, and you insert it into the meter, and it measures your blood glucose levels.
 * If the number is too high it can be dangerous but it can also be dangerous if the number is too low. 
-* Your also supposed to measure it before you eat breakfast because it can have a effect if you measure after eating. 
+* You're also supposed to measure it before you eat breakfast because it can have an effect if you measure after eating. 
 * Hardware: small reader, test strip interface, display, often battery powered. 
 Image. https://i1.pickpik.com/photos/827/481/162/diabetes-glucose-meter-glucose-meter-preview.jpg
 
 ### Pulse Oximeter
 * A Pulse Oximeter Measures how much oxygen is in your blood (SpO₂) and your pulse rate.
 * You clip it on your finger. It shines red and infrared light through your skin, and a sensor measures how much light your blood absorbs to find your oxygen level.
-* It has Small finger clip with tiny LED lights, a sensor, and a screen to show the numbers.
+* It has small finger clip with tiny LED lights, a sensor, and a screen to show the numbers.
 * Use: Checks oxygen levels for people with breathing problems, during surgery, or at home.
 Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_LfplVuk_vyrwprwKb2HfA&s
 
@@ -113,9 +113,9 @@ Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngHgfzDvoPD9aaoNZ5
 
 There is 4 different types of thermometers
 * Digital Thermometer used for Oral (under the tongue), axillary (underarm), and rectal (for babies) readings are common.
-* Infrared Thermometer (Ear/Forehead):  measured heat coming from your eardrum or forehead skin.
+* Infrared Thermometer (Ear/Forehead): Measures heat coming from your eardrum or forehead skin.
 * Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic. Digital
-* No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
+* No-Contact Thermometers: Use infrared light but do not touch the skin at all. Common during public health screenings.
 Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UYBmI5EDu8_HBtnmH8RxffK4bOEeqloSVg&s
 
 ### Defibrillator
