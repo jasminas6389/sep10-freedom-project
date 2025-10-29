@@ -115,3 +115,48 @@ Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_Lfpl
        * Mercury Thermometer (Traditional): Contains mercury that rises with heat — no longer widely used because mercury is toxic.
        * Digital No-Contact Thermometers:Use infrared light but do not touch the skin at all. Common during public health screenings.
 Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UYBmI5EDu8_HBtnmH8RxffK4bOEeqloSVg&s
+
+### Defibrillator
+* A defibrillator is a machine that sends an electric shock to the heart.
+* It helps the heart start beating normally again during a heart attack or abnormal rhythm.
+* It has Big batteries, Wires and high-voltage parts, Paddles or sticky pads, Buttons and a screen, ECG monitor to check the heartbeat, Some have AED (automated) features that work by themselves.
+* Used in emergencies to restart the heart and save lives.
+Image. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7HNxZSJanlWPucz9Oz47Jwb4kHg80PTHHA&s
+
+### Electrocardiography Machine
+* It records the heart’s electrical activity using electrodes on the body.
+* Electrodes pick up the heart’s signals, wires send them to the machine, the amplifier makes them stronger, the converter changes them into a readable form, and the screen or printout shows them.
+* Check arrhythmias: the electrodes and lead wires detect irregular beats, the screen/printout shows them.
+* Detect heart attacks: the amplifier and converter make changes in heart signals visible. 
+* Monitor heart function: the whole system records and displays the heart’s activity for ongoing observation.
+
+### Ventilator
+* It helps/takes over a patient’s breathing.
+* Gas flow system delivers air/oxygen, sensors check pressure and volume, the user interface lets doctors adjust settings, alarms warn of problems, and ventilator circuits connect the machine to the patient.
+* Use: Used in ICU, during surgery, for respiratory failure, or under anesthesia.
+Image. https://upload.wikimedia.org/wikipedia/commons/3/31/Servo_I_Ventilator.jpg
+
+### Ultrasound 
+* Uses high-frequency sound waves to make pictures of inside the body.
+* The probe (transducer) sends and receives sound waves, the console processes the signals with beamforming electronics, the display shows the images, and user controls let the operator adjust settings.
+* Use: Helps doctors check the heart, abdomen, baby in pregnancy, blood vessels, and guide procedures like biopsies.
+
+### Magnetic Resonance Imaging (MRI) Scanner
+* Uses strong magnets and radio waves to make detailed pictures of the inside of the body.
+* The magnet creates a strong magnetic field, gradient coils adjust the field to focus on specific areas, RF coils send and receive radio signals, the computer processes the data, and the display shows the images.
+* Use: Used for detailed imaging of the brain, spine, joints, and soft tissues.
+
+### X-Ray Machine / Radiography
+* Uses X-rays to take pictures of the inside of the body.
+* The X-ray tube produces the rays, the detector or film captures the image, the control panel adjusts settings, digital sensors can store images, and radiation shielding keeps people safe.
+* Use: Checks for broken bones, chest problems, dental issues, and more
+
+### Autoclave
+* Sterilizes surgical tools and lab equipment using steam under pressure.
+* Pressure chamber holds the items, steam generator creates high-pressure steam, timers control the cycle, sensors check temperature and pressure, and safety features prevent accidents.
+* Use: Keeps hospitals, clinics, and labs free from infections.
+
+### Electrosurgical Unit (ESU)
+* Cuts or stops bleeding in tissue using high-frequency electricity during surgery.
+* The generator makes electricity, cables carry it, the handpiece touches the tissue, the ground pad completes the circuit safely, and the controls let the surgeon adjust it.
+* Use: Used in operating rooms for surgeries like laparoscopic, open, or endoscopic procedures.
