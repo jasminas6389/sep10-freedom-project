@@ -8,7 +8,13 @@ One thing I found is called Electronic Health Record (EHR) Systems. These help d
 ### Hardware Technologies:
 I learned about robotic surgery tools, like the da Vinci Surgical System. This lets doctors do surgery using robotic arms, which are super precise and can make smaller cuts so patients heal faster. [This link explain what what the da Vinci system is.](https://health.utoledo.edu/clinics/urology/oldstuff/davinci/index.html) I also found out about wearable health monitors, like patches that track your heart rate or blood sugar. These send information straight to doctors, so they can catch problems early. I think it’s really amazing how software and hardware work together in medicine. Most people don't even realize technology is the reason we get faster results, safer treatments, and better care when we go to the doctor.
 
+### How I Did My Research:
 
+To learn about the software and hardware used in medical practice, I searched online using keywords like “medical practice technology,” “electronic health records,” and “robotic surgery tools.” I looked at official websites, PDFs from trusted sources, and articles that explained how these technologies work and help patients and doctors. I also revised my searches a few times to make sure I was finding reliable and clear information. Such as only using websites that end in .edu and .gov, because anyone is able to get a .com and it could be false information. Robotic surgery article from UAMS Health: shows benefits of the da Vinci system like less pain, less blood loss, faster recovery. [UAMS says da Vinci surgery is precise and causes less damage](https://uamshealth.com/treatment/da-vinci-robotic-surgery). 
+* Da Vinci Robotic Surgery: Minimally invasive surgery controlled by a surgeon via robotic arms.
+* How it Works: Small instruments + 3D camera; every movement directed by the surgeon.
+* Benefits: Less pain, scarring, and blood loss; faster recovery.
+* Patient Recovery: Patients often return to normal activities sooner with better results.
 
 
 
