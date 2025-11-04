@@ -2,7 +2,7 @@
 ##### 11/3/25
 
 ### Software Technologies:
-One thing I found is called Electronic Health Record (EHR) Systems. These help doctors and nurses look up a patient’s medical history with just a click, so they don’t have to search through papers or files. It also helps them talk to each other and prevents making mistakes. A popular EHR program is called Epic Systems, which helps keep track of data, appointments, and even sends alerts if a medicine might not be safe for a patient. [This link is a PDF from the U.S. Department of Health and Human Services explaining how Electronic Health Record (EHR) systems work and how to keep them secure.](https://www.hhs.gov/sites/default/files/electronic-health-record-systems.pdf)
+One thing I found is called Electronic Health Record (EHR) Systems. These help doctors and nurses look up a patient’s medical history with just a click, so they don’t have to search through papers or files. It also helps them talk to each other and prevents making mistakes. A popular EHR program is called Epic Systems, which helps keep track of data, appointments, and even sends alerts if a medicine might not be safe for a patient. [This link is a PDF from the U.S. Department of Health and Human Services explaining how Electronic Health Record systems work and how to keep them secure.](https://www.hhs.gov/sites/default/files/electronic-health-record-systems.pdf)
 
 I also found out about AI Diagnostic Tools, like IBM Watson Health. This software can look at X-rays and lab results and help doctors find problems quicker and more accurately. I thought that was really interesting because it shows how computers can actually help save lives.
 Hardware Technologies:
