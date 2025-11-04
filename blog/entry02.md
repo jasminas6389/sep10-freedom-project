@@ -21,9 +21,9 @@ I am currently in the research and planning stage of the Engineering Design Proc
 
 ### Skills:
 After my first blog I have a few skills that will help me more. 
-* I’ve learned how to *search for better examples* instead of just picking the first link that comes up. I’ve also been changing my searches, like going from “medical technology” to “hardware used in hospitals,” and I get more useful results.
-* I’ve been *keeping my notes and information organized*, making sure each link goes with the right note. This makes it easier to find things later and saves time.
-* I’m getting *better at explaining* what I’ve learned so other people can understand it. I don’t just say random things and hope they get it. 
+* I’ve learned how to <ins>*search for better examples*</ins> instead of just picking the first link that comes up. I’ve also been changing my searches, like going from “medical technology” to “hardware used in hospitals,” and I get more useful results.
+* I’ve been <ins>*keeping my notes and information organized*</ins>, making sure each link goes with the right note. This makes it easier to find things later and saves time.
+* I’m getting <ins>*better at explaining*</ins> what I’ve learned so other people can understand it. I don’t just say random things and hope they get it. 
 * I’ve also learned how to <ins>*make links short and work properly*</ins>, instead of having long messy URLs.
 
 ### Reflection:
