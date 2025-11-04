@@ -16,13 +16,17 @@ To learn about the software and hardware used in medical practice, I searched on
 * Benefits: Less pain, scarring, and blood loss; faster recovery.
 * Patient Recovery: Patients often return to normal activities sooner with better results.
 
+### Engineering Design Process:
+I am currently in the research and planning stage of the Engineering Design Process. I’ve gathered a lot of information about both software and hardware technologies used in the Medical field. My next step in the Engineering Design Process is to start designing how I want my website to look. My vision for my website is for each part to have it's own section, and for it to be organized. I want to add pictures that go with what i'm writing because, it can give who ever is reading my website to visually see what I'm talking about. I'm going to organize the  website into sections like “Software” “Hardware” and “Future Technology” to make it easy to read. 
 
+### Skills:
+After my first blog I have a few skills that will help me more. 
+* I’ve learned how to search better examples in order to find better examples, and not just the first link that pops up. I've also been changing my searches from “medical technology” to “hardware used in hospitals,” and I found more specific results.
+* I’ve been organizing my notes and all the information I have found, and making sure that my links are with the notes. This helps me because everything is connected and I dont have to spend hours trying to find where I put the link for the notes.
+*  I’m getting better at explaining what I’ve learned in a way that makes sense to others. So I don't just say random things and assume the other person understood what I'm trying to say. 
+*  Another skill is that I learned how to put the links without it being a long link and making it be linked appropiately. 
 
-
-
-
-
-
+### Reflection:
 
 
 
