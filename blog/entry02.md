@@ -24,7 +24,7 @@ After my first blog I have a few skills that will help me more.
 * I’ve learned how to *search for better examples* instead of just picking the first link that comes up. I’ve also been changing my searches, like going from “medical technology” to “hardware used in hospitals,” and I get more useful results.
 * I’ve been *keeping my notes and information organized*, making sure each link goes with the right note. This makes it easier to find things later and saves time.
 * I’m getting *better at explaining* what I’ve learned so other people can understand it. I don’t just say random things and hope they get it. 
-* I’ve also learned how to *~~make links short and work properly~~*, instead of having long messy URLs.
+* I’ve also learned how to *~make links short and work properly~*, instead of having long messy URLs.
 
 ### Reflection:
 I learned about **_software_** like **Electronic Health Records** and **AI diagnostic tools**, and **_hardware_** like the **da Vinci Surgical System** and **wearable health monitors**. Researching these technologies taught me how they improve patient care and make medical work more efficient. I also improved my skills in searching for reliable sources, organizing information, and explaining ideas clearly. I plan to use these skills when I start designing my website so it is easy to read and informative.”
