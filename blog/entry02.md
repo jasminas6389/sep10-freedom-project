@@ -6,7 +6,7 @@ One technology I found is called Electronic Health Record (EHR) System. These he
 
 
 ### Hardware Technologies:
-I learned about robotic surgery tools, like the da Vinci Surgical System. This lets doctors do surgery using robotic arms, which are super precise and can make smaller cuts so patients heal faster. [This link explain what the da Vinci system is.](https://health.utoledo.edu/clinics/urology/oldstuff/davinci/index.html) I also found out about wearable health monitors, like patches that track your heart rate or blood sugar. These send information straight to doctors, so they can catch problems early. I think it’s really amazing how software and hardware work together in medicine. Most people don't even realize that technology is the reason we get faster results, safer treatments, and better care when we go to the doctor.
+I learned about robotic surgery tools, like the da Vinci Surgical System. This lets doctors do surgery using robotic arms, which are super precise and can make smaller cuts so patients heal faster. [This link explains what the da Vinci system is.](https://health.utoledo.edu/clinics/urology/oldstuff/davinci/index.html) I also found out about wearable health monitors, like patches that track your heart rate or blood sugar. These send information straight to doctors, so they can catch problems early. I think it’s really amazing how software and hardware work together in medicine. Most people don't even realize that technology is the reason we get faster results, safer treatments, and better care when we go to the doctor.
 
 ### How I Did My Research:
 
@@ -17,7 +17,7 @@ To learn about the software and hardware used in medical practice, I searched on
 * Patient Recovery: Patients often return to normal activities sooner with better results.
 
 ### Engineering Design Process:
-I am currently in the research and planning stage of the Engineering Design Process. I’ve gathered a lot of information about both software and hardware technologies used in the Medical field. My next step in the Engineering Design Process is to start designing how I want my website to look. My vision for my website is for each part to have its own section, and for it to be organized. I want to add pictures that go with what I'm writing because, it can give whoever is reading my website to visually see what I'm talking about. I'm going to organize the  website into sections like “Software”, “Hardware”, and “Future Technology” to make it easy to read. 
+I am currently in the research and planning stage of the Engineering Design Process. I’ve gathered a lot of information about both software and hardware technologies used in the medical field. My next step in the Engineering Design Process is to start designing how I want my website to look. My vision for my website is for each part to have its own section, and for it to be organized. I want to add pictures that go with what I'm writing because it can help whoever is reading my website visually see what I'm talking about. I'm going to organize the  website into sections like “Software”, “Hardware”, and “Future Technology” to make it easy to read. 
 
 ### Skills:
 After my first blog I have a few skills that will help me more. 
