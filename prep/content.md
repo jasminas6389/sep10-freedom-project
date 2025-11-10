@@ -29,10 +29,9 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 * Improves Care: Doctors have everything they need at their fingertips, so they can give you better care.
 
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
+[This link is the epic systems website](https://www.epic.com/)
 
-https://www.epic.com/
-
-(Here is a picture of the epic systems logo) [https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg]
+[Here is a picture of the epic systems logo](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
 ---------------------------------------------------------------------------
 
 ***Zocdoc***
@@ -58,10 +57,9 @@ How It Helps:
 * Saves Time: No more waiting for weeks to see a doctor, you can often find last-minute spots.
 
 * Better Choices: You can pick a doctor based on what others have said about them, which is super helpful.
+  [Here is the zocdoc website link](https://www.zocdoc.com/)
 
-https://www.zocdoc.com/
-
-https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png
+[Here is a picture of the zocdoc logo](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
  
 
 ## Part B: possible future technology
