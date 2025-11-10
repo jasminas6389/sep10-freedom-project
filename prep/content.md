@@ -58,7 +58,7 @@ How It Helps:
 * Better Choices: You can pick a doctor based on what others have said about them, which is super helpful.
   [Here is the zocdoc website link](https://www.zocdoc.com/)
 
-[Here is a picture of the zocdoc logo](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
+![Here is a picture of the zocdoc logo](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
  
 
 ## Part B: possible future technology
