@@ -31,8 +31,8 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
 [This link is the epic systems website](https://www.epic.com/)
 
-![Here is a picture of the epic systems logo](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
 
+<img width="352" height="480" alt="image" src="https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg" 
 ***Zocdoc***
 
 What It Is: Zocdoc is an app/website where you can book doctor appointments online. You can find doctors, check their ratings, and book a visit without having to call.
