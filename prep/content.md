@@ -30,9 +30,7 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
 [This link is the epic systems website](https://www.epic.com/)
-
 [Here is a picture of the epic systems logo](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
----------------------------------------------------------------------------
 
 ***Zocdoc***
 
