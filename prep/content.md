@@ -70,13 +70,6 @@ How It Helps:
 So I first searched up "Devices used in medical practice". and it showed many sources from the web.
 * But there was a AI overview but since AI can be incorrect I scrolled past it.  Most of the devices that are being used aren’t hardware, it shows Stethoscope, Blood pressure monitors, Glucose meter, Thermometer, and insulin. These devices aren't plugged into anything so it doesn’t make them hardware.
   Examples
-### Stethoscope
-* A stethoscope is used to listen to the heartbeat and it doesn't involve any type of technology.
-* A simple acoustic instrument used to listen to body internal sounds (heart, lungs, blood flow).
-* Hardware: chest piece (diaphragm/bell), tubing, earpieces. No electronics needed in the basic version.
-* Use: basic diagnostic tool, widely used in physical exams.
-* It may be low-tech but it qualifies as a device/instrument.
-[Stethoscope image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7QFLS5gAJTnawuETbq-vCdvhR9RWyNUi0w&s)
 
 ### Blood Pressure Monitor
 * A Blood pressure monitor is used by batteries, and you don't plug it into anything. You just wrap it around your upper arm near your pulse and the part with the circle wire you put on the pulse, push the button and it inflates air to stop blood flow and it
@@ -146,12 +139,6 @@ There is 4 different types of thermometers
 * The magnet creates a strong magnetic field, gradient coils adjust the field to focus on specific areas, RF coils send and receive radio signals, the computer processes the data, and the display shows the images.
 * Use: Used for detailed imaging of the brain, spine, joints, and soft tissues.
 [MRI Scanner image](https://upload.wikimedia.org/wikipedia/commons/e/ee/MRI-Philips.JPG)
-
-### X-Ray Machine / Radiography
-* Uses X-rays to take pictures of the inside of the body.
-* The X-ray tube produces the rays, the detector or film captures the image, the control panel adjusts settings, digital sensors can store images, and radiation shielding keeps people safe.
-* Use: Checks for broken bones, chest problems, dental issues, and more
-[Radiography image](https://upload.wikimedia.org/wikipedia/commons/d/db/Projectional_radiography_components.jpg)
 
 ### Autoclave
 * Sterilizes surgical tools and lab equipment using steam under pressure.
