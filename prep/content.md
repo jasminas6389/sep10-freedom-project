@@ -30,7 +30,7 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
 [This link is the epic systems website](https://www.epic.com/)
-[Here is a picture of the epic systems logo](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
+![](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
 
 ***Zocdoc***
 
@@ -57,7 +57,7 @@ How It Helps:
 * Better Choices: You can pick a doctor based on what others have said about them, which is super helpful.
   [Here is the zocdoc website link](https://www.zocdoc.com/)
 
-[Here is a picture of the zocdoc logo](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
+![](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
  
 
 ## Part B: possible future technology
@@ -77,7 +77,7 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * Use: diagnosis/monitoring of hypertension, cardiovascular risk.
 [How a blood pressure monitor works](https://www.ncbi.nlm.nih.gov/books/NBK279251/)
 
-[Blood pressure monitor image](https://live.staticflickr.com/887/42092137064_792fda823f_b.jpg)
+![](https://live.staticflickr.com/887/42092137064_792fda823f_b.jpg)
 
 ### Glucose Meter
 * It is used for measuring your blood glucose. It is commonly used by people that have diabetes.
@@ -85,14 +85,14 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * If the number is too high it can be dangerous but it can also be dangerous if the number is too low. 
 * You're also supposed to measure it before you eat breakfast because it can have an effect if you measure after eating. 
 * Hardware: small reader, test strip interface, display, often battery powered. 
-[Glucose Meter image](https://i1.pickpik.com/photos/827/481/162/diabetes-glucose-meter-glucose-meter-preview.jpg)
+![](https://i1.pickpik.com/photos/827/481/162/diabetes-glucose-meter-glucose-meter-preview.jpg)
 
 ### Pulse Oximeter
 * A Pulse Oximeter Measures how much oxygen is in your blood (SpO₂) and your pulse rate.
 * You clip it on your finger. It shines red and infrared light through your skin, and a sensor measures how much light your blood absorbs to find your oxygen level.
 * It has small finger clip with tiny LED lights, a sensor, and a screen to show the numbers.
 * Use: Checks oxygen levels for people with breathing problems, during surgery, or at home.
-[Pulse Oximeter image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_LfplVuk_vyrwprwKb2HfA&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_LfplVuk_vyrwprwKb2HfA&s)
 
 ### Thermometer 
 * Measures body temperature to check for fever or infection.
