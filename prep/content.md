@@ -30,6 +30,7 @@ What It Is: Epic is a huge software used by hospitals and big medical offices to
 
 * Meets Standards: It's made to follow healthcare rules, so your data is safe.
 [This link is the epic systems website](https://www.epic.com/)
+
 ![](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-24/epic-emr-system-thumbnail.jpg)
 
 ***Zocdoc***
@@ -60,11 +61,6 @@ How It Helps:
 ![](https://m.bbb.org/prod/ProfileImages/2022/c41271cd-fcca-4e6d-9015-26272af3a847.png)
  
 
-## Part B: possible future technology
-*
-*
-
-
 ## Devices/hardware
 
 So I first searched up "Devices used in medical practice". and it showed many sources from the web.
@@ -74,8 +70,7 @@ So I first searched up "Devices used in medical practice". and it showed many so
 ### Blood Pressure Monitor
 * A Blood pressure monitor is used by batteries, and you don't plug it into anything. You just wrap it around your upper arm near your pulse and the part with the circle wire you put on the pulse, push the button and it inflates air to stop blood flow and it
 * Important to keep arm at heart-level, cuff size matters, multiple readings often taken.
-* Use: diagnosis/monitoring of hypertension, cardiovascular risk.
-[How a blood pressure monitor works](https://www.ncbi.nlm.nih.gov/books/NBK279251/)
+* Use: diagnosis/monitoring of hypertension, cardiovascular risk. [How a blood pressure monitor works](https://www.ncbi.nlm.nih.gov/books/NBK279251/)
 
 ![](https://live.staticflickr.com/887/42092137064_792fda823f_b.jpg)
 
@@ -84,7 +79,8 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * A drop of blood is placed on a test strip, and you insert it into the meter, and it measures your blood glucose levels.
 * If the number is too high it can be dangerous but it can also be dangerous if the number is too low. 
 * You're also supposed to measure it before you eat breakfast because it can have an effect if you measure after eating. 
-* Hardware: small reader, test strip interface, display, often battery powered. 
+* Hardware: small reader, test strip interface, display, often battery powered.
+  
 ![](https://i1.pickpik.com/photos/827/481/162/diabetes-glucose-meter-glucose-meter-preview.jpg)
 
 ### Pulse Oximeter
@@ -92,6 +88,7 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * You clip it on your finger. It shines red and infrared light through your skin, and a sensor measures how much light your blood absorbs to find your oxygen level.
 * It has small finger clip with tiny LED lights, a sensor, and a screen to show the numbers.
 * Use: Checks oxygen levels for people with breathing problems, during surgery, or at home.
+  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSce2YyLFVduG_LfplVuk_vyrwprwKb2HfA&s)
 
 ### Thermometer 
@@ -120,36 +117,42 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * Check arrhythmias: the electrodes and lead wires detect irregular beats, the screen/printout shows them.
 * Detect heart attacks: the amplifier and converter make changes in heart signals visible. 
 * Monitor heart function: the whole system records and displays the heart’s activity for ongoing observation.
+  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxQv5rAprrjj2OyU0ue9MQWYjFMNXNL6lDA&s)
 
 ### Ventilator
 * It helps/takes over a patient’s breathing.
 * Gas flow system delivers air/oxygen, sensors check pressure and volume, the user interface lets doctors adjust settings, alarms warn of problems, and ventilator circuits connect the machine to the patient.
 * Use: Used in ICU, during surgery, for respiratory failure, or under anesthesia.
+  
 ![](https://upload.wikimedia.org/wikipedia/commons/3/31/Servo_I_Ventilator.jpg)
 
 ### Ultrasound 
 * Uses high-frequency sound waves to make pictures of inside the body.
 * The probe (transducer) sends and receives sound waves, the console processes the signals with beamforming electronics, the display shows the images, and user controls let the operator adjust settings.
 * Use: Helps doctors check the heart, abdomen, baby in pregnancy, blood vessels, and guide procedures like biopsies.
+  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2albFcy7IKbjFPEj7CO24cWZhHzI493f2A&s)
 
 ### Magnetic Resonance Imaging (MRI) Scanner
 * Uses strong magnets and radio waves to make detailed pictures of the inside of the body.
 * The magnet creates a strong magnetic field, gradient coils adjust the field to focus on specific areas, RF coils send and receive radio signals, the computer processes the data, and the display shows the images.
 * Use: Used for detailed imaging of the brain, spine, joints, and soft tissues.
+  
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ee/MRI-Philips.JPG)
 
 ### Autoclave
 * Sterilizes surgical tools and lab equipment using steam under pressure.
 * Pressure chamber holds the items, steam generator creates high-pressure steam, timers control the cycle, sensors check temperature and pressure, and safety features prevent accidents.
 * Use: Keeps hospitals, clinics, and labs free from infections.
+  
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a0/Laboratory_autoclave_%28cropped%29.jpg)
 
 ### Electrosurgical Unit (ESU)
 * Cuts or stops bleeding in tissue using high-frequency electricity during surgery.
 * The generator makes electricity, cables carry it, the handpiece touches the tissue, the ground pad completes the circuit safely, and the controls let the surgeon adjust it.
 * Use: Used in operating rooms for surgeries like laparoscopic, open, or endoscopic procedures.
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHeohrDy7Px_OM3-5_tfuIPSpcePru1wGAA&s)
 
 
