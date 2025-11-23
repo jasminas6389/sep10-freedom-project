@@ -150,3 +150,31 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * The generator makes electricity, cables carry it, the handpiece touches the tissue, the ground pad completes the circuit safely, and the controls let the surgeon adjust it.
 * Use: Used in operating rooms for surgeries like laparoscopic, open, or endoscopic procedures.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHeohrDy7Px_OM3-5_tfuIPSpcePru1wGAA&s)
+
+
+## Future Technologies 
+
+### Robotic surgery for greater precision
+* Robots can perform complicated surgery needed when you need to have stable hands and perform quickly.  
+* Smaller cuts, quicker recovery, and fewer problems for patients.
+
+### 3D printing. 
+* Creates custom implants, prosthetics, and even organs.
+* Offers personalized solutions like prosthetics that fit exactly to the patient’s body.
+* This technology can be used especially when you aren't able to find a donor in time. 
+
+### Finger scanning
+* This technology can be used where your finger holds all of your information 
+* When you go to the doctors office you scan your finger on the machine and all of your information will pop up on the computer screen 
+* No need to carry your insurance and accidently  lose it. 
+* It also increases security and reduces the risk of mistakes in managing the  patient's information.
+
+### Mind machine
+* A device that can directly connect to the brain,
+* This technology can be used to help the doctors know where exactly you're having pain and so they can assist you right away without having you fill out paperwork and describing your pain. 
+* Another way it can be used is by allowing doctors to read your thoughts and detect early signs of mental health conditions. 
+
+### Teleportation
+* This can be used when you need to go to the hospital urgently but there is an accident on the road and the ambulance cannot drive through.
+* Although teleportation may sound unrealistic it is a need in the medical field.
+* Such as when you need a certain organ from across the world, you can teleport someone there and they can bring it back. With no damage and in a quick amount of time. 
