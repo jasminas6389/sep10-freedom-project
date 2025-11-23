@@ -111,6 +111,7 @@ So I first searched up "Devices used in medical practice". and it showed many so
 * It helps the heart start beating normally again during a heart attack or abnormal rhythm.
 * It has Big batteries, Wires and high-voltage parts, Paddles or sticky pads, Buttons and a screen, ECG monitor to check the heartbeat, Some have AED (automated) features that work by themselves.
 * Used in emergencies to restart the heart and save lives.
+  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7HNxZSJanlWPucz9Oz47Jwb4kHg80PTHHA&s)
 
 ### Electrocardiography Machine
