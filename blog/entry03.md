@@ -8,11 +8,13 @@ Robotic surgery for greater precision, 3D printing, Finger scanning, Mind machin
 
 
 
-### Sources: When I saw my friend ,Farzona's freedom project I saw how she came up with a possible future technology for "Smart Tattoos That Monitor Your Health" and I got inspired to come up with a "Mind machine". The Mind Machine is a device that can directly connect to the brain. The technology can be used to help the doctors know where exactly you're having pain and so they can assist you right away without having you fill out paperwork and describing your pain. 
+### Sources: 
+When I saw my friend Farzona’s Freedom Project, I saw how she came up with a possible future technology for "Smart Tattoos That Monitor Your Health" and I got inspired to come up with a "Mind machine". The Mind Machine is a device that can directly connect to the brain. The technology can be used to help the doctors know where exactly you're having pain and so they can assist you right away without having you fill out paperwork and describing your pain. 
 
 
 
 ### Engineering Design Process:
+Currently I have already brainstormed technologies for my Freedom Project, and right now I am writing how I came up with my ideas, and my inspiration. 
 
 ### Skills: 
 
