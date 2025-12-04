@@ -5,21 +5,13 @@ While I was thinking about future technologies I was thinking about how it can b
 
 ### My future technologies
 Robotic surgery for greater precision, 3D printing for Custom Implants and Organs, Finger scanning Medical Records, Mind machine, and Teleportation for Emergency Transport.  Robotic surgery is used to make smaller cuts, quicker recovery, and fewer problems for patients. It can also perform complicated surgery needed when you need to have stable hands and perform quickly. 3D printing is useful for surgery and it has personalized solutions like prosthetics that fit exactly to the patient’s body. This technology can be used especially when you aren't able to find a donor in time. Finger scanning can be used where your finger holds all of your information 
-When you go to the doctors office you scan your finger on the machine and all of your information will pop up on the computer screen. No need to carry your insurance and feel you may lose it. This also increases security and reduces the risk of mistakes in managing the  patient's information.
-
-
-
-
-
+When you go to the doctors office you scan your finger on the machine and all of your information will pop up on the computer screen. No need to carry your insurance and feel you may lose it. This also increases security and reduces the risk of mistakes in managing the  patient's information. The Mind Machine is connected to the brain, and another way it can be used is by allowing doctors to read your thoughts and detect early signs of mental health conditions. Teleportation can be used when you need to go to the hospital urgently but there is an accident on the road and the ambulance cannot drive through. Although teleportation may sound unrealistic it is a need in the medical field. Such as when you need a certain organ from across the world, you can teleport someone there and they can bring it back. With no damage and in a quick amount of time. 
 
 ### Sources: 
 When I saw my friend Farzona’s Freedom Project, I saw how she came up with a possible future technology for "Smart Tattoos That Monitor Your Health" and I got inspired to come up with a "Mind machine". The Mind Machine is a device that can directly connect to the brain. The technology can be used to help the doctors know where exactly you're having pain and so they can assist you right away without having you fill out paperwork and describing your pain. 
 
-
-
 ### Engineering Design Process:
-Currently I have already brainstormed technologies for my Freedom Project, and right now I am writing how I came up with my ideas, and my inspiration. 
-
+Currently I have already brainstormed technologies for my Freedom Project, and right now I am writing how I came up with my ideas, and my inspiration. When I was brainstorming ideas I was thinking about what can be useful for the future, and how it can make peoples lives easier. 
 
 ### Skills: 
 I learned how to explore good sources, compare existing technologies, and use real examples to inspire future ideas. I practiced imagining solutions that go beyond what is currently being used, which helped me come up with original ideas like the Mind Machine and teleportation for emergencies.
