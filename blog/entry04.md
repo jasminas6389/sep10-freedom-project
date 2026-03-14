@@ -3,6 +3,10 @@
 
 For my freedom project, the tool I chose is Aframe.
 
+### Sources: 
+
+### Skills:
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
