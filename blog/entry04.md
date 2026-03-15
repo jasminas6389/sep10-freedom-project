@@ -13,7 +13,7 @@ For my freedom project, the tool I chose is **_A-frame_**. We had to pick out 3 
 ```
 This is the code I was tinkering with and changing up for A-frame. I wanted to make the shapes stack on top of each other to make a robot looking shape. It was a bit challenging because everything had to be straight, and the shapes needed to align with each other. The first time I tried it there was spaces inbetween the shapes, it was floating ontop of each other and it didn't really look good. But I changed the numbers to be smaller and not that far from each other.
 
-<img src="robot.png" alt="Robot" width="400" height="200">
+
 
 ### Sources:
 
