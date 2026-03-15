@@ -28,10 +28,11 @@ This is the code I was using for my teleportation. I made it so there is a big b
 
 
 ### Sources:
+For the sources I mostly just used [A-frame.](https://aframe.io/) for tinkering and used [Jsbin.](https://jsbin.com/?html,output) to preview and see how it looks like. Before adding, and commiting it to my ide. 
 
 
 ### Skills:
-Some skills I need
+Some skills I’ve learned how to work with 3D design tools, think creatively, and to just try it out because you have nothing to lose. I also got better in researching things in general, because I used to just find something and use the first one that popped up. But now I looked for multiple different resources, and fully dive into where I'm researching and find my inforamtion. Another skill is being able to adapt easiler to certain things. For using A-frame in the begining I was very confused but I researched and watched videos on where/how to start using A-frame. 
 
 
 [Previous](entry03.md) | [Next](entry05.md)
