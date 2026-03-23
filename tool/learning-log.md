@@ -25,8 +25,9 @@
     * In the repository I notice there is some cool examples of what you can make using A-frame.
     * There is multiple types of code you can copy and paste to build VR and AR scenes.
 
-### X/X/XX:
-* Text
+### 3/23/26:
+* A-frame can be used to create prototypes of tools, gadgets, and designs.
+* You can change the position of shapes.
 
 
 <!--
