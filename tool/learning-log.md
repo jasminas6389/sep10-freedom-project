@@ -28,6 +28,15 @@
 ### 3/23/26:
 * A-frame can be used to create prototypes of tools, gadgets, and designs.
 * You can change the position of shapes.
+* I decided to watch some more videos and take notes on it.
+* Video : AFrame Lesson 1.3: Color and material attribute. Sky and plane component.
+    * <a-sky color= "blue"></a-sky> will change the color of the background/sky into blue.
+    * <a-plane color= "brown"></a-plane> if you only type this the ground will not be visible unless you zoom out because there is no coordinates, and the component is default rotated, so you need to add coordinates.
+        * This is the code for making the ground. <a-plane color= "brown" position= " _ _ _" width= "__" height= "__" rotation= "_ _ _ "></a-plane>
+    * You can use images for the sky, but it has to wrap fully around 360 degrees otherwise there will be a distinctive line where they both connect.
+    * When making the ground you can also use pictures, but you may have to use more than one. Such as adding "repeat" in your code, so the one picture you picked won't be blurry trying to take up the whole space.
+        * You can add pictures of a brick pattern, and if you want it to be smaller you can increase the number with the repeated pictures.
+    * You can even add patterns and color on the objects.
 
 
 <!--
