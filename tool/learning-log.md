@@ -40,22 +40,26 @@
  * You can even add patterns and color on the objects.
 
 #### AFrame Lesson 1.2: Position, rotation and dimension attributes.
-* Rotations
-    * x-rotation is the object tilting forward or backward along the horizontal axis
-    * y-rotation is the object spinning left or right along the vertical axis.
-    * z-rotation is the object twisting around its front and back along the depth axis.
-* Positions
-    * Positive Z brings objects closer, Negative Z moves objects further back.
-    * Default position for an object is (0, 0, 0)
-* Dimensions
-    * Width, Height, Radius
-    * box has width, height, depth and a sphere has radius
-    * If you change the radius of a sphere, it will grow in size.
-* Attributes
-    * When you add an object without defining attributes, it uses default settings.
-        * Position: (0, 0, 0)
-        * Rotation: (0, 0, 0)
-        * Dimensions: (1, 1, 1)
+
+##### Rotations
+* x-rotation is the object tilting forward or backward along the horizontal axis
+* y-rotation is the object spinning left or right along the vertical axis.
+* z-rotation is the object twisting around its front and back along the depth axis.
+
+##### Positions
+* Positive Z brings objects closer, Negative Z moves objects further back.
+* Default position for an object is (0, 0, 0)
+
+
+##### Dimensions
+* Width, Height, Radius
+* box has width, height, depth and a sphere has radius
+* If you change the radius of a sphere, it will grow in size.
+##### Attributes
+* When you add an object without defining attributes, it uses default settings.
+    * Position: (0, 0, 0)
+    * Rotation: (0, 0, 0)
+    * Dimensions: (1, 1, 1)
 * Objects can overlap if their dimensions bring them into the same space.
     * For example a sphere with a radius of 3.25 might overlap with a box or cylinder if they’re positioned close.
 
