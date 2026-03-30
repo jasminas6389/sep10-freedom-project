@@ -63,7 +63,11 @@
 * Objects can overlap if their dimensions bring them into the same space.
     * For example a sphere with a radius of 3.25 might overlap with a box or cylinder if they’re positioned close.
 
-
+### 3/30/26
+* I opened up Jsbin and pasted in the starter code, and I was going through A-frame and its different components.
+    * Some of them didn't really do anything but I think its because I didn't do it correct, so I pasted the code into the `<a-scene> </a-scene>`
+* One thing that stood out to me was the wasd-controls, when I pasted in the code at first I was moving my mouse. But then when I reread the information part more correctly it said "wasd controls". So I clicked the buttons and was amazed on how it was zooming in and out.
+    * `<a-entity camera look-controls wasd-controls="acceleration:100" position="0 1.6 0"></a-entity>` this is the code to paste in.
 
 
 <!--
