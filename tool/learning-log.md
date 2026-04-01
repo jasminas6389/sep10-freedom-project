@@ -67,8 +67,36 @@
 * I opened up Jsbin and pasted in the starter code, and I was going through A-frame and its different components.
     * Some of them didn't really do anything but I think its because I didn't do it correct, so I pasted the code into the `<a-scene> </a-scene>`
 * One thing that stood out to me was the wasd-controls, when I pasted in the code at first I was moving my mouse. But then when I reread the information part more correctly it said "wasd controls". So I clicked the buttons and was amazed on how it was zooming in and out.
-    * `<a-entity camera look-controls wasd-controls="acceleration:100" position="0 1.6 0"></a-entity>` this is the code to paste in.
+    * `<a-entity camera look-controls wasd-controls="acceleration:100" position="0 1.6 0"></a-entity>` this is the code to paste in. You can change the position on where it stands.
 
+* This is also related to the wasd controls, it is called vive-focus-controls.
+    * `<a-entity vive-focus-controls></a-entity>`
+
+    * `<a-entity vive-focus-controls="hand: left"></a-entity>  <a-entity vive-focus-controls="hand: right"></a-entity>`
+* Different shapes to add in the scene.
+    * https://aframe.io/docs/1.5.0/components/geometry.html#triangle
+* hex code colors, https://htmlcolorcodes.com/
+* Made a house using geometry shapes.
+    `<a-scene>
+     <!-- sky -->
+      <a-sky color="lightblue"></a-sky>
+      <!-- ground -->
+      <a-plane position="0 0 -5" rotation="-90 0 0" width="50" height="50" color="green"></a-plane>
+      <!-- sun -->
+      <a-sphere position="0 25 -50" radius="5" material="color: yellow"></a-sphere>
+      <!-- base of house-->
+      <a-box position="5 2 -10" width="6" height="4" depth="6" color="#70444A"></a-box>
+      <!-- roof of house -->
+      <a-cone position="5 5.4 -10" radius-bottom="4" height="3" color="#B3505D"></a-cone>
+      <!-- Door -->
+      <a-box position="5 1 -7" width="1" height="2" depth="0.1" color="saddlebrown"></a-box>
+      <!-- Windows -->
+      <a-box position="3 2 -7" width="1.2" height="1.2" depth="0.1" color="#C3D4D0"></a-box>
+      <a-box position="7 2 -7" width="1.2" height="1.2" depth="0.1" color="#C3D4D0"></a-box>
+      <a-box position="4.6 1 -7" width="0.1" height="0.1" depth="0.1" color="white"></a-box>
+      <a-camera position="0 1.6 5"></a-camera>
+    </a-scene>
+* Making the house wasn't that difficult but I had to make the windows be aligned, put the door in the center. For the handle I copied and pasted the code for my windows, all I did was make the width and height smaller and make it align with the door. 
 
 <!--
 * Links you used today (websites, videos, etc)
