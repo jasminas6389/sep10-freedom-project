@@ -96,7 +96,26 @@
       <a-box position="4.6 1 -7" width="0.1" height="0.1" depth="0.1" color="white"></a-box>
       <a-camera position="0 1.6 5"></a-camera>
     </a-scene>
-* Making the house wasn't that difficult but I had to make the windows be aligned, put the door in the center. For the handle I copied and pasted the code for my windows, all I did was make the width and height smaller and make it align with the door. 
+* Making the house wasn't that difficult but I had to make the windows be aligned, put the door in the center. For the handle I copied and pasted the code for my windows, all I did was make the width and height smaller and make it align with the door.
+
+### 4/15/26
+Day 1: Watch more videos to learn more information about the tool, and how I can use it to make my future technology look better. I will watch 1.4 because it will show how to actually build the model, and take notes of what I will use.
+
+Day 2: I will pick one of my future technologies I have in my blog and make a couple sketches of what I want it to look like, then I'll make it a little more detailed and then get started on it.
+
+Day 3: I will continue to make  the model  that I want to create.  I can do that by using different shapes, and code from the a frame website so that it can look good.
+
+* The order of components in code doesn't affect the position of the object.
+* Example: Building a snowman with three spheres of different sizes and positions:
+    * Largest sphere at the bottom (radius larger, position lower).
+    * Medium sphere in the middle.
+    * Smallest sphere at the top.
+* `<a-entity>` acts as a container. like a `<div>`
+    * You can use that to make multiple identical model and change the positions.
+* `<a-entity position="x y z" rotation="rx ry rz"><!-- complex object components --></a-entity><!-- Copy with different position and rotation --><a-entity position="x2 y2 z2" rotation="rx2 ry2 rz2"><!-- same object components or different --></a-entity>`
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
