@@ -114,7 +114,11 @@ Day 3: I will continue to make  the model  that I want to create.  I can do that
     * You can use that to make multiple identical model and change the positions.
 * `<a-entity position="x y z" rotation="rx ry rz"><!-- complex object components --></a-entity><!-- Copy with different position and rotation --><a-entity position="x2 y2 z2" rotation="rx2 ry2 rz2"><!-- same object components or different --></a-entity>`
 
-
+* When I was picking one of my future technologies to make the model of, I chose to do the Finger scanning Medical Records.
+* Finger scanning Medical Records
+    * I made a big circle and added oulines of smaller circles inside of it to look like a finger print.
+    * Link for code to finger scanning machine, technology. https://docs.google.com/document/d/1EK4zlr60oSqUgn56KHXMlbDX5XI4W-slK77Qhu47aBc/edit?tab=t.0
+    * I made the model of what it will roughly look like, but I might change the shape of the circle to be a oval so its more realistic. 
 
 
 <!--
