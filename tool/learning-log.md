@@ -118,7 +118,13 @@ Day 3: I will continue to make  the model  that I want to create.  I can do that
 * Finger scanning Medical Records
     * I made a big circle and added oulines of smaller circles inside of it to look like a finger print.
     * Link for code to finger scanning machine, technology. https://docs.google.com/document/d/1EK4zlr60oSqUgn56KHXMlbDX5XI4W-slK77Qhu47aBc/edit?tab=t.0
-    * I made the model of what it will roughly look like, but I might change the shape of the circle to be a oval so its more realistic. 
+    * I made the model of what it will roughly look like, but I might change the shape of the circle to be a oval so its more realistic.
+
+* The finger scanning I made the shape from a cirle to be a oval.
+    * https://docs.google.com/document/d/1orSj0rE4QBBxhv2GhoVhi5-SH8g5HVj-55JhgJeeXbA/edit?tab=t.0
+
+
+
 
 
 <!--
