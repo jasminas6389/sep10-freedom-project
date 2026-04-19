@@ -120,8 +120,17 @@ Day 3: I will continue to make  the model  that I want to create.  I can do that
     * Link for code to finger scanning machine, technology. https://docs.google.com/document/d/1EK4zlr60oSqUgn56KHXMlbDX5XI4W-slK77Qhu47aBc/edit?tab=t.0
     * I made the model of what it will roughly look like, but I might change the shape of the circle to be a oval so its more realistic.
 
-* The finger scanning I made the shape from a cirle to be a oval.
+* The finger scanning I changed the shape from a cirle to be an oval.
     * https://docs.google.com/document/d/1orSj0rE4QBBxhv2GhoVhi5-SH8g5HVj-55JhgJeeXbA/edit?tab=t.0
+
+* I made the model of my robot again. In try 1 its just the robot but try 2 is with a sky and background.
+    * https://docs.google.com/document/d/12Xmsy1UiolkizXlUbU9kOL8LeXsZ6yim-FVzWQ4XNUQ/edit?tab=t.0
+
+* Now I made the teleportation device.
+    * https://docs.google.com/document/d/1yyJBjTm3WnLY-VKRO6XZOexINkYZcMQA02Mb7VDdpR0/edit?tab=t.0#heading=h.n30f2ck5cvau
+
+    * While making the device I reused the code I made for the house and I just added a rectangle box and red doors.
+* Out of the future technologies I made models of I don't know which one am I going to use for my project because I'm proud of all of them, and how they turned out.
 
 
 
