@@ -2,7 +2,7 @@
 ##### 4/20/26
 
 ### Content
-My tool I learned is A-frame, A-frame is really easy to work with, you can use it to make 3D-models of anything you need. You can change the background, the sky color, the floor color, you can even include your own picture that you would like for it to be. Using your own images can make it realistic. We were learning our tool by ourselves and we had a good month to learn everything we can to help us prepare for our freedom project that we are going to make. We have to include our tool in our project and how it can make it better.
+My tool I learned is **A-frame**, A-frame is really easy to work with, you can use it to make 3D models of anything you need. You can change the background, the sky color, the floor color, you can even include your own picture that you would like for it to be. Using your own images makes it realistic. We were learning our tool by ourselves and we had a good month to learn everything we could to help us prepare for our freedom project that we are going to make. We have to include our tool in our project and how it can make it better.
 
 ### What I learned
 Learning my tool was easy for me because I watched multiple videos about A-frame, and it taught me: 
@@ -11,8 +11,8 @@ Learning my tool was easy for me because I watched multiple videos about A-frame
 * Size: Adjusts how big or small shapes are by changing width, height, or radius.  
 * Colors and textures: I can add colors or pictures to make things look more real or cool.  
 * Controls: Using WASD, I can walk around the scene and look around the model.
-* `<a-entity camera look-controls wasd-controls="acceleration:100" position="0 1.6 0"></a-entity>` this is the code to paste in. You can change the position on where the start for the controls is. 
-* `<a-sky color= "color">` changes the background or sky to any color I choose.  
+* `<a-entity camera look-controls wasd-controls="acceleration:100" position="0 1.6 0"></a-entity>` This is the code to paste in. You can change the position on where the start for the controls is. 
+* `<a-sky color="color">` changes the background or sky to any color I choose.  
 * `<a-plane color= "color"> `creates the ground, but if I only use this, the ground might not show up unless I zoom out because it has no position, size, or rotation set.  
 * To see the ground clearly, I need to add position, width, height, and rotation attributes, like this: `<a-plane color= "color" position= "x y z" width= "value" height= "value" rotation= "x y z">.  `
 * I can also use images for the sky, but they need to wrap all around 360 degrees; otherwise, there will be a visible line where the images connect.
@@ -31,11 +31,6 @@ I used these websites to help me learn more about A-frame.
 
 
 #### Video Notes
-* I watched the **1.1 Introduction to Vr video** , and after watching it I realized when I was tinkering with A-frame It was doing the same thing as me.
-  - The person making the video copied and pasted the starter code into html, previewed the code, and saw the different shapes.
- 
-
-
 * **AFrame Lesson 1.3: Color and material attribute. Sky and plane component.**
   - `<a-sky color= "blue"></a-sky>` will change the color of the background/sky into blue.
   - `<a-plane color= "brown"></a-plane>` if you only type this the ground will not be visible unless you zoom out because there is no coordinates, and the component is default rotated, so you need to add coordinates.
@@ -44,9 +39,18 @@ I used these websites to help me learn more about A-frame.
   - When making the ground you can also use pictures, but you may have to use more than one. Such as adding "repeat" in your code, so the one picture you picked won't be blurry trying to take up the whole space.
   - You can add pictures of a brick pattern, and if you want it to be smaller you can increase the number with the repeated pictures.
 
+* **AFrame Lesson 1.4: Building models**
+  - The order of components in code doesn't affect the position of the object.
+  - Example: Building a snowman with three spheres of different sizes and positions:
+  - Largest sphere at the bottom (radius larger, position lower).
+  - Medium sphere in the middle.
+  - Smallest sphere at the top.
+  - `<a-entity>` acts as a container. like a `<div>`
+  - You can use that to make multiple identical model and change the positions.
+
 
 ### What I made
-I made a couple different models of different things such as: 
+I made several different models such as: 
 
 _A house with a colored sky_
 ``` html
@@ -144,7 +148,7 @@ For my future technology I had an idea for a teleportation device, so I made one
 
 
 ### Skills
-Some of the skills I've gained is better note taking skills, and being more creative. I became more creative by trying new ideas and making different models, like houses, robots, and teleportation devices. I've gotten better on doing it myself and not relying on someone to help me or tell me how to do it, or what part to learn. Since we pretty much learned the tool all by ourselves, I had to know myself what is needed for me to learn and what i'm going to use. I've also learned how to take better notes, When I didn't know how to align the shapes I went back to my notes and it helped me alot. Especially when the positions had to be negative or positive it was confusing at first but then I got it. I was also paying attention to detail by making everything was in the right place, like windows on the house or making the teleportation device be near the house but not too close to the house. Before I started building, I thought about what I wanted to make and how to put everything together.
+Some of the skills I've gained are better note-taking skills, and being more creative. I became more creative by trying new ideas and making different models, like houses, robots, and teleportation devices. I've gotten better on doing it myself and not relying on someone to help me or tell me how to do it, or what part to learn. Since we pretty much learned the tool all by ourselves, I had to know myself what is needed for me to learn and what i'm going to use. I've also learned how to take better notes, when I didn't know how to align the shapes I went back to my notes and it helped me a lot, especially when the positions had to be negative or positive. It was confusing at first but then I understood. I was also paying attention to detail by making everything was in the right place, like windows on the house or making the teleportation device be near the house but not too close to the house. Before I started building, I thought about what I wanted to make and how to put everything together.
 
 
 
