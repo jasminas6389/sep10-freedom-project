@@ -10,3 +10,17 @@ h3 {
     text-align: center;
 }
 
+.card{
+    background-color: white;
+    border: 1px dashed ;
+    border-radius: 10px;
+    padding: 14px;
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
