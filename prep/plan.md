@@ -12,7 +12,10 @@
 * --color-1: #985757;
 --color-2: #987857;
 --color-3: #989857;
-  <img width="647" height="196" alt="image" src="https://github.com/user-attachments/assets/a08f60c8-cd47-4190-b683-65a54663aa70" />
+  `<img width="647" height="196" alt="image" src="https://github.com/user-attachments/assets/a08f60c8-cd47-4190-b683-65a54663aa70" />`
+
+  https://coolors.co/palettes/popular/gradient
+
 
 
 
@@ -31,7 +34,7 @@
 * 4/25 Finish plan
 * 4/26 Start coding, navbar
 * 4/27 context, part a, part b
-* 4/28 make the cards for part a, software and hardware 
+* 4/28 make the cards for part a, software and hardware
 * 4/29 include the A-frame model
 * 4/30 add the images for the cards
 * 5/1 make decent css for the whole website, Make css background be gradient, make the cards color compliment the background.
@@ -44,8 +47,8 @@
 * Task
 
 * Try using accordion to have more information under the text for software and hardware, if that doesn't work I could use a collapse
-* i can try to do stacking toasts, to show the existing technologies, or to make it introduce the future technoloiges. 
-* 
+* i can try to do stacking toasts, to show the existing technologies, or to make it introduce the future technoloiges.
+*
 
 
 
@@ -54,7 +57,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |

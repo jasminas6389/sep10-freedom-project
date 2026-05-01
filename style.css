@@ -10,17 +10,21 @@ h3 {
     text-align: center;
 }
 
-.card{
-    background-color: white;
-    border: 1px dashed ;
-    border-radius: 10px;
-    padding: 14px;
+.med{
+    background: linear-gradient(to bottom, #006d77, #83c5be) ;
+    height: 100vh;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
 }
 
-@media (max-width: 768px) {
-    .card {
-        width: 100%;
-        margin-bottom: 20px;
-    }
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
 }
+
