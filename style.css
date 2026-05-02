@@ -30,7 +30,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: pink;
+    background:linear-gradient(to bottom, #fcb9b2, #b23a48) ;
 }
 
 .med {
