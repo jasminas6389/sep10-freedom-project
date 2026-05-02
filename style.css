@@ -181,3 +181,20 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+
+.ware {
+background-color: #006d77;
+padding: 30px 15px;
+margin: 20px 0;
+border-radius: 10px;
+color: white;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
+
+.ware h4 {
+font-size: 24px;
+font-weight: 600;
+color: white;
+margin: 0;
+}
