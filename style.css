@@ -30,6 +30,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: pink;
 }
 
 .med{
@@ -58,7 +59,7 @@ body {
 
 #context {
     padding: 50px 15px;
-    background-color: #ffffff;
+    background-color: #fbf8cc;
 }
 
 #context h3 {
@@ -78,6 +79,7 @@ body {
     flex-direction: column;
     height: 100%;
     flex: 1;
+    margin: 20px;
 }
 
 .card:hover {
@@ -111,7 +113,7 @@ body {
 
 #part-a, #part-b {
     padding: 50px 15px;
-    background-color: #f0f0f0;
+
 }
 
 #part-a h3, #part-b h3 {
@@ -121,9 +123,10 @@ body {
 }
 
 #part-a h4, #part-b h4 {
-    font-size: 18px;
-    line-height: 1.6;
+   font-size: 18px;
+   line-height: 1.6;
 }
+
 
 @media (max-width: 768px) {
     .card {
@@ -135,7 +138,7 @@ body {
 }
 
 #aframe-model {
-    background-color: #f4f4f9;
+    background-color: #e0aaff;
     padding: 50px 15px;
     border-radius: 15px;
     margin-top: 50px;
@@ -183,18 +186,18 @@ body {
 }
 
 .ware {
-background-color: #006d77;
-padding: 30px 15px;
-margin: 20px 0;
-border-radius: 10px;
-color: white;
-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-text-align: center;
+    background-color: #006d77;
+    padding: 30px 15px;
+    margin: 20px 0;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .ware h4 {
-font-size: 24px;
-font-weight: 600;
-color: white;
-margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin: 0;
 }
