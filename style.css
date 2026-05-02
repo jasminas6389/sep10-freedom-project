@@ -124,3 +124,14 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+
+@media (max-width: 768px) {
+    .card {
+        margin: 10px 0;
+    }
+    .card-img-top {
+        width: 100%;
+    }
+}
+
+
