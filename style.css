@@ -134,4 +134,14 @@ body {
     }
 }
 
+.aframe{
+    font-size: 32px;
+    color: #006d77;
+    margin-bottom: 30px;
+}
 
+a {
+    color: hotpink;
+    font-weight: bold;
+    font-size: 30px;
+}
