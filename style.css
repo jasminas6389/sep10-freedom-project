@@ -33,20 +33,22 @@ body {
     background-color: pink;
 }
 
-.med{
-    background: linear-gradient(to bottom, #006d77, #83c5be) ;
+.med {
+    background: url('https://c3mdc.com/wp-content/uploads/2020/12/medical-device-investment-1024x683.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    color: white;
     padding-top: 80px;
+    color: #202020;
 }
 
 .main-title {
     font-size: 48px;
     margin: 0;
+    font-family: "Caveat", cursive;
+    font-size: 70px;
 }
 
 .navbar {
@@ -60,6 +62,7 @@ body {
 #context {
     padding: 50px 15px;
     background-color: #fbf8cc;
+    font-family: "Gelasio", serif;
 }
 
 #context h3 {
@@ -113,6 +116,7 @@ body {
 
 #part-a, #part-b {
     padding: 50px 15px;
+    font-family: "Gelasio", serif;
 
 }
 
@@ -144,6 +148,7 @@ body {
     margin-top: 50px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: "Gelasio", serif;
 }
 
 #aframe-model h3 {
@@ -200,4 +205,22 @@ body {
     font-weight: 600;
     color: white;
     margin: 0;
+    font-family: "Gelasio", serif;
+}
+
+#btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    text-align: center;
+
+
+}
+
+#btn:hover {
+    background-color: #ff4081;
+    color: white;
 }
