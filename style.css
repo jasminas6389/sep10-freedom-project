@@ -208,19 +208,13 @@ body {
     font-family: "Gelasio", serif;
 }
 
-#btn {
+.btn-primary {
+    color: #fff;
     padding: 10px 20px;
-    font-size: 18px;
-    font-weight: bold;
     border-radius: 5px;
-    background-color: green;
-    color: white;
-    text-align: center;
-
-
 }
 
-#btn:hover {
-    background-color: #ff4081;
-    color: white;
+.btn-primary:hover {
+    background-color: #e3376d;
+    color: black;
 }
