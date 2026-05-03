@@ -68,10 +68,11 @@ body {
 #context h3 {
     font-size: 32px;
     color: #006d77;
+    padding: 25px;
 }
 
 #context h4 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.8;
 }
 
@@ -131,7 +132,7 @@ body {
 }
 
 #part-a h4, #part-b h4 {
-   font-size: 18px;
+   font-size: 20px;
    line-height: 1.6;
 }
 
@@ -190,7 +191,7 @@ body {
 }
 
 #aframe-model h4 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.6;
 }
 
