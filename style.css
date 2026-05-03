@@ -124,6 +124,10 @@ body {
     font-size: 32px;
     color: #006d77;
     margin-bottom: 30px;
+    background-color: #FFAC81;
+    padding: 40px;
+    border: 1px solid;
+    border-radius: 15px;
 }
 
 #part-a h4, #part-b h4 {
