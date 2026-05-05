@@ -59,7 +59,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |  Christian| I really like how the cards also have buttons that lead you to the website. | Too many dfiiferent colors but still cool. |
-|  |  |  |
+| wen xi |  I like your color scheme and how your website is responsive and your A frame  | i qould like to see if you could get an image of future technology either AI or finding one on the interne |
 |  |  |  |
 |  |  |  |
 |  |  |  |
