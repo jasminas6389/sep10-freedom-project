@@ -59,8 +59,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |  Christian| I really like how the cards also have buttons that lead you to the website. | Too many dfiiferent colors but still cool. |
-| wen xi |  I like your color scheme and how your website is responsive and your A frame  | i qould like to see if you could get an image of future technology either AI or finding one on the interne |
-|  |  |  |
+| wen xi |  I like your color scheme and how your website is responsive and your A frame  | i would like to see if you could get an image of future technology either AI or finding one on the interne |
+| Stephanie | I like how well organized your website is and the background, the image represents you topic everything is specific and matches | I would prefer you'd pick a better color scheme for the text can pop out more in the sections with dark colors |
 |  |  |  |
 |  |  |  |
 
