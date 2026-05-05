@@ -54,17 +54,14 @@
 
 
 
-
-<!-- DO NOT USE THIS YET
-
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+|  Christian| I really like how the cards also have buttons that lead you to the website. | Too many dfiiferent colors but still cool. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
+
