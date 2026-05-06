@@ -64,4 +64,5 @@
 |  |  |  |
 |  |  |  |
 
-
+* Most important change is the background
+* Then the AI generated image for the future technology
