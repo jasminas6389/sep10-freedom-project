@@ -15,6 +15,8 @@
   `<img width="647" height="196" alt="image" src="https://github.com/user-attachments/assets/a08f60c8-cd47-4190-b683-65a54663aa70" />`
 
   https://coolors.co/palettes/popular/gradient
+  `background:linear-gradient(to bottom, #fcb9b2, #b23a48) ;`
+  #e0aaff
 
 
 
