@@ -17,6 +17,11 @@
   https://coolors.co/palettes/popular/gradient
   `background:linear-gradient(to bottom, #fcb9b2, #b23a48) ;`
   #e0aaff
+  #8ab0ab
+  #c4b1ae
+  #cab7a2
+  #858786
+  #bfb59e
 
 
 
