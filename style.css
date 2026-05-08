@@ -259,3 +259,18 @@ body {
 .footer a:hover {
     color: #fff;
 }
+
+.ai{
+    text-align: center;
+}
+
+.ai img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    border: 3px solid white;
+    margin:20px;
+}
+
