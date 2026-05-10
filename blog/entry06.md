@@ -48,7 +48,6 @@ So I wrote that into ChatGPT and it gave me a teleportation device as a circle, 
 * [ChatGPT](https://chatgpt.com/) – For generating the image of the Teleportation Device
 * [A-Frame](https://aframe.io/) - For making my A-frame model
 * [Electronic health record (EHR) systems](https://www.salesforce.com/healthcare/providers/ehr-systems-guide/) - Store patients information digitally, including medical history, test results, medications, and appointments. 
-* [Jotform Health](https://www.jotform.com/ai/agents/customer-service/use-cases/healthcare/) - Medical data managed digitally for patient care.
 * [NHS App](https://www.nhs.uk/nhs-app/) - For managing your healthcare using a phone, tablet or computer.
 * [Zocdoc](https://www.zocdoc.com/) - Online appointment booking and video calls with doctor.
 * [Epic systems](https://www.epic.com/) - How hospitals organize patient records and appointments efficiently.
