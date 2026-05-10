@@ -40,6 +40,9 @@ So I wrote that into ChatGPT and it gave me a teleportation device as a circle, 
 
 <img width="700" height="500" alt="IMG_5257" src="https://github.com/user-attachments/assets/cdd3a745-db37-4ffa-b6fa-a3f0de21fef1" />
 
+#### This is what my beyond MVP looks like
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2b038fa2-80fe-4409-abae-92f2ef7587e4" />
+
 
 ### Sources
 
