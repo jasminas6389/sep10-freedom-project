@@ -30,12 +30,23 @@ One challenge I had was making sure that the text sizes and words look good on a
 ```
 I used this media query for my Medical Practice title. Originally I didn't put a media query for it but after I finished my MVP I decided why not search up my website on my phone and see it from other perspective. The first thing I noticed was how big the title was, so I went into my IDE and added the media query to make the text sizes smaller on a smaller screen size. 
 
+#### Beyond MVP
+We also had a week after we finished the MVP to go beyond the MVP. We got feedback on our project, originally I had many different types of colors for each section and it wasn't consistent. So I removed all the colors and started again with all white, and I made all the headings have the same color. I made the background fully be one color, and I'm really happy with how it turned out because it looks better than it did before. One of the grows I got in my feedback, was to add an AI generated model of my future technology. I took this grow into consideration because you can better visualize the AI version more than the A-frame model I had. 
+
+<img width="350" height="500" alt="img" src="https://github.com/user-attachments/assets/2f93aa4e-e3f1-4451-ada1-4126075c51ba" />
+
+
+So I wrote that into ChatGPT and it gave me a teleportation device as a circle, it wasn't what I had planned so I told it to make it a square with buttons. Then it gave me this, and it looked like what I imagined, especially with the buttons as details. 
+
+<img width="700" height="500" alt="IMG_5257" src="https://github.com/user-attachments/assets/cdd3a745-db37-4ffa-b6fa-a3f0de21fef1" />
+
+
 ### Sources
 
 ### Engineering Design Process
 
 ### Skills
-Some skills I've gotten better in is organizing all of my things. Especially all the information I've used in my project, and putting everything in its specific place. 
+Some skills I've gotten better in is organizing all of my things. Especially all the information I've used in my project, and putting everything in its specific place. I also got better in coding, I am more comfortable with using media queries and how they work. I learned how to make my website responsive on phones, tablets, and desktops. I've also gotten better in choosing consistent colors, fonts, and adding details to make my project look good and professional.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
