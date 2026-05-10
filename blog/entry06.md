@@ -13,8 +13,22 @@ For my Freedom Project, I chose the topic Medical Practice because I want to wor
 <img width="800" height="500" alt="Screenshot 2026-05-10 11 47 43 AM" src="https://github.com/user-attachments/assets/cf3d7af1-7637-4631-ba7d-e45bfa2cc1e2" />
 <img width="800" height="500" alt="Screenshot 2026-05-10 11 47 46 AM" src="https://github.com/user-attachments/assets/24479549-4c97-48df-aa31-67dd6aa76a0d" />
 
+#### Challenges
+One challenge I had was making sure that the text sizes and words look good on all screen sizes. For example a heading that looks good on a big desktop screen can be very big on a mobile phone or tablet, and it won't look as good as its supposed to. So I used a media query which makes the text be a specific size on a specifc screen size. 
+``` CSS
+@media (max-width: 768px) {
+    .main-title {
+        font-size: 40px;
+    }
+}
 
-
+@media (max-width: 480px) {
+    .main-title {
+        font-size: 30px;
+    }
+}
+```
+I used this media query for my Medical Practice title. Originally I didn't put a media query for it but after I finished my MVP I decided why not search up my website on my phone and see it from other perspective. The first thing I noticed was how big the title was, so I went into my IDE and added the media query to make the text sizes smaller on a smaller screen size. 
 
 ### Sources
 
