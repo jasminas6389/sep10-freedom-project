@@ -35,6 +35,7 @@ I used this media query for my Medical Practice title. Originally I didn't put a
 ### Engineering Design Process
 
 ### Skills
+Some skills I've gotten better in is organizing all of my things. Especially all the information I've used in my project, and putting everything in its specific place. 
 
 
 [Previous](entry05.md) | [Next](entry07.md)
