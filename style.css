@@ -93,6 +93,32 @@ body {
     line-height: 1.8;
 }
 
+@media (max-width: 768px) {
+    #context h3 {
+        font-size: 28px;
+        padding: 30px;
+    }
+
+    #context h4 {
+        font-size: 18px;
+        padding: 20px 0;
+    }
+}
+
+@media (max-width: 480px) {
+
+    #context h3 {
+        font-size: 24px;
+        padding: 20px;
+    }
+    
+    #context h4 {
+        font-size: 16px;
+        padding: 15px 0;
+    }
+}
+
+
 .card {
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -181,7 +207,7 @@ body {
 @media (max-width: 768px) {
     #part-a h4,
     #part-b h4 {
-        font-size: 18px; 
+        font-size: 18px;
     }
 }
 
@@ -243,6 +269,28 @@ body {
     font-size: 20px;
     line-height: 1.6;
 }
+
+
+@media (max-width: 768px) {
+   #aframe-model h3 {
+       font-size: 28px;
+   }
+
+   #aframe-model h4 {
+       font-size: 18px;   }
+}
+
+
+@media (max-width: 480px) {
+   #aframe-model h3 {
+       font-size: 24px;
+   }
+
+   #aframe-model h4 {
+       font-size: 16px;
+   }
+}
+
 
 .ware {
     background-color: #006d77;
