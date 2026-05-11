@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Did you know that over 116 million people worldwide used telemedicine apps in recent years, and that number keeps growing every year? Healthcare is changing because of new technology. Today people can talk to doctors through apps, schedule appointments online, and receive treatment without leaving their homes. 
 
 ## Product
 * 
