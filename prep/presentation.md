@@ -58,7 +58,9 @@
 }
 ```
 i will add these pictures into my slides and talk about the difference the media query did.
+
 <img width="277" height="599" alt="0" src="https://github.com/user-attachments/assets/54f4d2a1-3cd6-46d4-b0a0-d2c004cbd079" />
+
 <img width="277" height="599" alt="0" src="https://github.com/user-attachments/assets/fa23fefc-ed72-4f07-a8ef-cfd8e83673df" />
 
 * Maybe show my AI generated technology device.
