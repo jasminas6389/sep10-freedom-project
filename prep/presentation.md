@@ -5,7 +5,8 @@
 
 ## Product
 * I will summarize the context into a few sentences so they know what my project is about.
-* Show my A-frame model and what it is. 
+* To show my website, I will show the existing software and hardware technology, and i will say how for the software technology you can click the link to learn more information about the website.
+* then I will talk a little about my A-frame. and what inspired me to make it. 
 
 ## Process
 * Explain how I researched medical technology and apps like Epic Systems and Zocdoc
