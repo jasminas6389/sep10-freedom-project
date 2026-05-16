@@ -5,7 +5,8 @@
 
 ## Product
 * I will summarize the context into a few sentences so they know what my project is about.
-* Show my A-frame model and what it is. 
+* To show my website, I will show the existing software and hardware technology, and i will say how for the software technology you can click the link to learn more information about the website.
+* then I will talk a little about my A-frame. and what inspired me to make it. 
 
 ## Process
 * Explain how I researched medical technology and apps like Epic Systems and Zocdoc
@@ -56,6 +57,12 @@
     }
 }
 ```
+i will add these pictures into my slides and talk about the difference the media query did.
+
+<img width="277" height="599" alt="0" src="https://github.com/user-attachments/assets/54f4d2a1-3cd6-46d4-b0a0-d2c004cbd079" />
+
+<img width="277" height="599" alt="0" src="https://github.com/user-attachments/assets/fa23fefc-ed72-4f07-a8ef-cfd8e83673df" />
+
 * Maybe show my AI generated technology device.
 * Then talk about how transportation is very important especially in medical field, and the importance of time.
 
