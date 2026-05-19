@@ -1,7 +1,10 @@
 # Entry 7
-##### X/X/XX
+##### 5/19/26
 
-Text
+### Content 
+#### Presenting
+
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
