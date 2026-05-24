@@ -15,3 +15,7 @@ My website about Medical Practice shows how it could happen. First I found tools
 Then I thought of future technologies that could improve peoples lives. The main technology I thought about was a teleportation device. 
 
 Imagine a person having a heart attack gets sent to a specialist in seconds. Or a donor organ arrives right away without needing a plane. It sounds like a movie, but when every second counts teleportation could save lives. 
+
+Big ideas start with "what if." My teleportation device sounds unrealistic now, but every invention once did. 
+
+Thank you
