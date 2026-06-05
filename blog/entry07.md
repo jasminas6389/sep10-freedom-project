@@ -7,8 +7,11 @@
 After a year long preparing for our freedom projects and making it ready, with all the information and the content, the day had finally came... **Presentations**. 
 
 [Product](https://jasminas6389.github.io/sep10-freedom-project/)
+
 [Presentation Plan](prep/presentation.md)
+
 [Slides](https://docs.google.com/presentation/d/1ZmxPi7X5lr4g7TxXCKNH018RxWvT2NwBLoFYtHZsZuo/edit?usp=sharing)
+
 [Elevator Pitch](prep/pitch.md)
 
 #### Takeaways from in-class presentation
