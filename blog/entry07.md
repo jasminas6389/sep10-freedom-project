@@ -4,7 +4,7 @@
 ### Content 
 
 #### Context
-After a year long preparing for our projects and making it ready, with all the information and the content, the day had finally came... **Presentations**. 
+After a year long preparing for our freedom projects and making it ready, with all the information and the content, the day had finally came... **Presentations**. 
 
 #### Takeaways from in-class presentation
 Some takeaways I have from the in class presentation is to not be afraid to speak infront of everyone, because while I was presenting everyon was just looking at me and it felt overwhelming. But other than that I think another takeaway is to be more prepared because I forgot some parts of what I wanted to say during my presentation. Especially things that could interest the audience. 
