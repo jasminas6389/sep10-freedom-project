@@ -8,11 +8,11 @@ After a year long preparing for our freedom projects and making it ready, with a
 
 [Product](https://jasminas6389.github.io/sep10-freedom-project/)
 
-[Presentation Plan](..prep/presentation.md)
+[Presentation Plan](../prep/presentation.md)
 
 [Slides](https://docs.google.com/presentation/d/1ZmxPi7X5lr4g7TxXCKNH018RxWvT2NwBLoFYtHZsZuo/edit?usp=sharing)
 
-[Elevator Pitch](..prep/pitch.md)
+[Elevator Pitch](../prep/pitch.md)
 
 #### Takeaways from in-class presentation
 Some takeaways I have from the in class presentation is to not be afraid to speak infront of everyone, because while I was presenting everyon was just looking at me and it felt overwhelming. But other than that I think another takeaway is to be more prepared because I forgot some parts of what I wanted to say during my presentation. Especially things that could interest the audience. 
