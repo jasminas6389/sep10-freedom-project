@@ -6,7 +6,9 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Medical Practice**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make my website.
+I made a website about Medical Practice to show the existing technologies and future technologies that can improve people's lives to its fullest. We had a whole year to work on this project, we first researched information about our topic in the first semester, and in the second semester we started learning how to code and make websites. We made wireframes to plan out the layout of our website, we first made a website with all the content given to us, from our teacher. We made more than one website to practice, and eventually it was time for us to create our actual Freedom Project website with the content we had prepared in the first semester. We made two sets of wireframes, one for a big screen device and one for a smaller screen device because we needed it to be responsive. 
+
+I used HTML, CSS, Bootstrap, and GitHub. I also chose to independently study **A-Frame** in order to help me make my website.
 
 ## Links
 
@@ -16,9 +18,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* We were able to pick our topic
+* We had a whole year to plan out the project and what we wanted to do
+* We were able to show off our work
+* Becoming more independent and doing everything ourself
+* Gaining skills in every category such as, researching, understanding, and problem solving. 
 ##### CONS
-* 
+* Around January I was having doubts about my topic and if I wanted to continue, but it was too late to change so I just continued.
+* We had to learn our tool for our project all by ourselves
+* I found myself procrastinating untill the last couple days to finish what was needed, and especially practicing presenting.
 
 
 ## Blog
