@@ -10,7 +10,7 @@ After a year long preparing for our freedom projects and making it ready, with a
 
 [Presentation Plan](../prep/presentation.md)
 
-[Slides](https://docs.google.com/presentation/d/1ZmxPi7X5lr4g7TxXCKNH018RxWvT2NwBLoFYtHZsZuo/edit?usp=sharing)
+[Presentation Slides](https://docs.google.com/presentation/d/1ZmxPi7X5lr4g7TxXCKNH018RxWvT2NwBLoFYtHZsZuo/edit?usp=sharing)
 
 [Elevator Pitch](../prep/pitch.md)
 
